@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-city:none
-=======
 city:bangalore
->>>>>>> 4f1b3ee46f017a22018fa3b7cbb8415748e1b3db
