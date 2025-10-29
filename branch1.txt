@@ -1,1 +1,1 @@
-this is sample text file
+this is sample text file to showcase my implementation of branches and pushing it to a sub branch called branch1.
